@@ -10,7 +10,7 @@ It is a control defined by a template. Every control has a **ControlTemplate** p
 
 ## Overview
 
-The controls available are:
+There are currently **17 controls**. The controls available are:
 
 ### AvatarView
 
@@ -148,6 +148,8 @@ Use GitHub [Issues](https://github.com/jsuarezruiz/TemplateUI/issues) for bug re
 ## What's next
 
 The next controls will be:
+* Divider
+* PinBox
 * TabView
 
 In addition, there are ideas for a wide variety of controls like:
@@ -155,7 +157,6 @@ In addition, there are ideas for a wide variety of controls like:
 * Calendar
 * ColorPicker
 * DataGrid
-* Divider
 * Loading
 * Pagination
 * StepBar
