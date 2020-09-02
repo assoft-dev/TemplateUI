@@ -160,5 +160,8 @@
     <BundleResource Include="Resources\toggleswitch.png" />
     <BundleResource Include="Resources\slider.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pinbox.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
